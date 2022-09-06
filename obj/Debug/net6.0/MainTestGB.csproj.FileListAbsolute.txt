@@ -1,0 +1,15 @@
+C:\MainTestGB\bin\Debug\net6.0\MainTestGB.exe
+C:\MainTestGB\bin\Debug\net6.0\MainTestGB.deps.json
+C:\MainTestGB\bin\Debug\net6.0\MainTestGB.runtimeconfig.json
+C:\MainTestGB\bin\Debug\net6.0\MainTestGB.dll
+C:\MainTestGB\bin\Debug\net6.0\MainTestGB.pdb
+C:\MainTestGB\obj\Debug\net6.0\MainTestGB.csproj.AssemblyReference.cache
+C:\MainTestGB\obj\Debug\net6.0\MainTestGB.GeneratedMSBuildEditorConfig.editorconfig
+C:\MainTestGB\obj\Debug\net6.0\MainTestGB.AssemblyInfoInputs.cache
+C:\MainTestGB\obj\Debug\net6.0\MainTestGB.AssemblyInfo.cs
+C:\MainTestGB\obj\Debug\net6.0\MainTestGB.csproj.CoreCompileInputs.cache
+C:\MainTestGB\obj\Debug\net6.0\MainTestGB.dll
+C:\MainTestGB\obj\Debug\net6.0\refint\MainTestGB.dll
+C:\MainTestGB\obj\Debug\net6.0\MainTestGB.pdb
+C:\MainTestGB\obj\Debug\net6.0\MainTestGB.genruntimeconfig.cache
+C:\MainTestGB\obj\Debug\net6.0\ref\MainTestGB.dll
